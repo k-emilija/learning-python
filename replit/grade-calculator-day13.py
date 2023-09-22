@@ -1,3 +1,5 @@
+# The program will ask the user to type in the name of a test, the maximum score they could have received, and how many points they received. For example, test could be called "Python Skills" and the maximum score is 50 points and the user receives 30 points out of 50 possible points.  
+
 print("✨ Exam Grade Calculator ✨")
 print("")
 
