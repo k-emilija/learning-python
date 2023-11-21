@@ -1,4 +1,5 @@
 # This code will only work in replit, but I am saving it here for a future reference.
+"""
 
 from replit import audio
 import os, time
@@ -31,3 +32,5 @@ while True:
     exit()
   else:
     continue
+    
+"""
